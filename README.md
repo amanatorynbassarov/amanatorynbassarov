@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий Дата Сайентист<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> с огромным интересом к анализу данных и их использованию для получения новых знаний и инсайтов. Мой путь начался с университета IITU в Алмате. Затем я проходил курсы и обучался. И через пол года обучения я прошел стажировку в компании ARTCOM по Machine Learning.
+Я начинающий ***Дата Сайентист***<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> с огромным интересом к анализу данных и машинному обучению. Я являюсь самоучкой и имею огромное желание расти по карьере. Мой путь начался с университета IITU <img src="https://ydf.iitu.edu.kz/img/logo11.png" width="40px"> в Алмате. Затем я проходил курсы и обучался. Через пол года обучения я прошел стажировку в компании ARTCOM по Machine Learning.
 
 - :telescope: Изучаю Data Science в школе программирования SkillFactory!
 

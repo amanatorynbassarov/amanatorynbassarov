@@ -1,21 +1,21 @@
 
-# Привет, меня зовут Аманат!
+# Hello, my name is Amanat!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
-Я начинающий ***Дата Сайентист***<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> с огромным интересом к анализу данных и машинному обучению. Я являюсь самоучкой и имею огромное желание расти по карьере. Мой путь начался с университета IITU <img src="https://ydf.iitu.edu.kz/img/logo11.png" width="40px"> в Алмате. Затем я проходил курсы и обучался. Через пол года обучения я прошел стажировку в компании ARTCOM по Machine Learning.
+I am a beginner ***Data Scientist***<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with a huge interest in data analysis and machine learning. I am self-taught and have a great desire to grow in my career. My journey started from the IITU <img src="https://ydf.iitu.edu.kz/img/logo11.png" width="40px"> University in Almaty. Then I took courses and studied. After half a year of study, I completed an internship at ARTCOM in Machine Learning.
 
-- :telescope: Изучаю Data Science в школе программирования SkillFactory!
+- :telescope: Studying Data Science at SkillFactory Programming School!
 
-- :zap: Хочу освоить знания и найти работу.
+- :zap: I want to learn and find a job.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-orynbassaramanat-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/orynbassarov_a) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:orynbasar.amanat04@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-orynbassaramanat-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/orynbassarov_a) [ ![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:orynbasar.amanat04@gmail.com)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social media:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/orynbasaramanat/" target="_blank">
@@ -34,7 +34,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -43,7 +43,7 @@
 
   ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=512" title="Leetcode" alt="Leetcode" width="40" height="40"/>&nbsp;

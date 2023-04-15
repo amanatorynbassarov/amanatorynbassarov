@@ -5,13 +5,21 @@
 
 ### :man_technologist: About me:
 
-I am a beginner ***Data Scientist***<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with a huge interest in data analysis and machine learning. I am self-taught and have a great desire to grow in my career. My journey started from the IITU <img src="https://ydf.iitu.edu.kz/img/logo11.png" width="40px"> University in Almaty. Then I took courses and studied. After half a year of study, I completed an internship at ARTCOM in Machine Learning.
+I am a Junior ***Data Scientist***<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with a huge interest in data analysis and machine learning. I am self-taught and have a great desire to grow in my career. My journey started from the IITU <img src="https://ydf.iitu.edu.kz/img/logo11.png" width="40px"> University in Almaty. Then I took courses and studied. After half a year of study, I completed an internship at ARTCOM in Machine Learning.
 
-- :telescope: Studying Data Science at SkillFactory Programming School!
+- 🧑🏻‍💻 I am a Junior ***Data Scientist***
 
-- :zap: I want to learn and find a job.
+- :telescope: Studied Data Science at SkillFactory Programming School!
+
+- :zap: I want to learn more and find a job.
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-orynbassaramanat-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/orynbassarov_a) [ ![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:orynbasar.amanat04@gmail.com)
+
+---
+
+### 📚 Projects 
+
+* Tap [here](https://github.com/amanatorynbassarov?tab=repositories) to see my Projects
 
 ---
 

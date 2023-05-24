@@ -5,9 +5,9 @@
 
 ### :man_technologist: About me:
 
-I am a Junior ***Data Scientist***<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with a huge interest in data analysis and machine learning. I am self-taught and have a great desire to grow in my career. My journey started from the IITU <img src="https://ydf.iitu.edu.kz/img/logo11.png" width="40px"> University in Almaty. Then I took courses and studied. After half a year of study, I completed an internship at ARTCOM in Machine Learning.
+I am a ***Data Scientist***<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with a huge interest in data analysis and machine learning. I am self-taught and have a great desire to grow in my career. My journey started from the IITU <img src="https://ydf.iitu.edu.kz/img/logo11.png" width="40px"> University in Almaty. Then I took courses and studied. After half a year of study, I completed an internship at ARTCOM in Machine Learning.
 
-- 🧑🏻‍💻 I am a Junior ***Data Scientist***
+- 🧑🏻‍💻 I am a ***Data Scientist***
 
 - :telescope: Studied Data Science at SkillFactory Programming School!
 

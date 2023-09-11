@@ -58,7 +58,6 @@ I am a ***Data Scientist***<img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=512" title="Leetcode" alt="Leetcode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle" alt="kaggle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://www.oomnitza.com/wp-content/uploads/2022/06/github-logo-300x300.png" title="github" alt="github" width="40" height="40"/>&nbsp;
 </div>
 
 ----
